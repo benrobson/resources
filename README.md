@@ -1,4 +1,3 @@
 # resources
 
-### Channels
-- [TheNetNinja](https://www.youtube.com/channel/UCW5YeuERMmlnqo4oq8vwUpg)
+- [particles.js](https://vincentgarreau.com/particles.js/)
