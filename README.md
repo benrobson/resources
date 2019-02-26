@@ -6,6 +6,9 @@
 
 ### [FontAwesome](https://fontawesome.com/)
 
+### DiscordJDA
+- [Discord JDA pom shading](https://www.spigotmc.org/threads/jda-spigot-plugin-failing-to-enable.201638/)
+
 ## Favorite NPM Packages
 - [Express](https://www.npmjs.com/package/express)
 - [body-parser](https://www.npmjs.com/package/body-parser)
