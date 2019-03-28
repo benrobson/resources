@@ -11,6 +11,8 @@
 - [MySQL Download](https://dev.mysql.com/downloads/mysql/)
 - [MySQL Commands](http://g2pc1.bu.edu/~qzpeng/manual/MySQL%20Commands.htm)
 - [Create database and tables in MySql Workbench](https://www.youtube.com/watch?v=u6p2OU491Ss)
+#### MySQL Errors
+-[Host 'xxx.xx.xxx.xxx' is not allowed to connect to this MySQL server](https://stackoverflow.com/questions/1559955/host-xxx-xx-xxx-xxx-is-not-allowed-to-connect-to-this-mysql-server)
 
 ### CSS 
 - [Centre Div on Page](https://codepen.io/stephen_sun/pen/WyENWK)
