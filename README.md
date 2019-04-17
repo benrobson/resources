@@ -1,12 +1,18 @@
 # resources
 
+## HTML
+- [FontAwesome](https://fontawesome.com/)
+- [HTML Table Generator](https://www.tablesgenerator.com/html_tables)
+
+## CSS 
+- [Centre Div on Page](https://codepen.io/stephen_sun/pen/WyENWK)
+
+## JavaScript [js]
 ### particles.js
 - [particles.js](https://vincentgarreau.com/particles.js/)
 - [Particles.js Tutorial](https://www.youtube.com/watch?v=0jQQCxuPF8k)
 
-### [FontAwesome](https://fontawesome.com/)
-
-### MySQL
+## MySQL
 - [MySQL Database Installation and Configuration for Advanced Management Console](https://docs.oracle.com/javacomponents/advanced-management-console-2/install-guide/mysql-database-installation-and-configuration-advanced-management-console.htm#JSAMI116)
 - [MySQL Download](https://dev.mysql.com/downloads/mysql/)
 - [MySQL Commands](http://g2pc1.bu.edu/~qzpeng/manual/MySQL%20Commands.htm)
@@ -14,9 +20,6 @@
 #### MySQL Errors
 - [Host 'xxx.xx.xxx.xxx' is not allowed to connect to this MySQL server](https://stackoverflow.com/questions/1559955/host-xxx-xx-xxx-xxx-is-not-allowed-to-connect-to-this-mysql-server)
 - [Client does not support authentication protocol requested by server; consider upgrading MySQL client](https://stackoverflow.com/questions/50093144/mysql-8-0-client-does-not-support-authentication-protocol-requested-by-server)
-
-### CSS 
-- [Centre Div on Page](https://codepen.io/stephen_sun/pen/WyENWK)
 
 ### GitBook
 - [Cannot Integrate Gitbook organization with repo owned by Github organization](https://github.com/GitbookIO/gitbook/issues/1796#issuecomment-451271237)
