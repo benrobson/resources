@@ -26,3 +26,6 @@
 
 ## Minecraft
 - [Color Codes](http://minecraft.tools/en/color-code.php)
+
+## Discord
+- [Discord Bot Permissions Calculator](https://discordapi.com/permissions.html)
