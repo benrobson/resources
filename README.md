@@ -29,3 +29,6 @@
 
 ## Discord
 - [Discord Bot Permissions Calculator](https://discordapi.com/permissions.html)
+
+## Sony Vegas
+- [Change Auto-Save Frequency](https://www.sonyvegas.co.uk/change-auto-save-frequency/)
