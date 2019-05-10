@@ -21,7 +21,7 @@
 - [Host 'xxx.xx.xxx.xxx' is not allowed to connect to this MySQL server](https://stackoverflow.com/questions/1559955/host-xxx-xx-xxx-xxx-is-not-allowed-to-connect-to-this-mysql-server)
 - [Client does not support authentication protocol requested by server; consider upgrading MySQL client](https://stackoverflow.com/questions/50093144/mysql-8-0-client-does-not-support-authentication-protocol-requested-by-server)
 
-### GitBook
+## GitBook
 - [Cannot Integrate Gitbook organization with repo owned by Github organization](https://github.com/GitbookIO/gitbook/issues/1796#issuecomment-451271237)
 
 ## Minecraft
