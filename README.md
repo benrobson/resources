@@ -32,6 +32,7 @@
 
 ## Discord
 - [Discord Bot Permissions Calculator](https://discordapi.com/permissions.html)
+- [Simple Webhook Tutorial for Discord](https://gist.github.com/jagrosh/7606268fc9f1d3e90ce9efc79294f960)
 
 ## Sony Vegas
 - [Change Auto-Save Frequency](https://www.sonyvegas.co.uk/change-auto-save-frequency/)
