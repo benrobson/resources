@@ -8,6 +8,9 @@
 - [Centre Div on Page](https://codepen.io/stephen_sun/pen/WyENWK)
 
 ## JavaScript [js]
+## Express
+- [Importing vars into ejs](https://www.codementor.io/naeemshaikh27/node-with-express-and-ejs-du107lnk6)
+
 ### particles.js
 - [particles.js](https://vincentgarreau.com/particles.js/)
 - [Particles.js Tutorial](https://www.youtube.com/watch?v=0jQQCxuPF8k)
