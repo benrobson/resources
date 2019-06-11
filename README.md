@@ -11,6 +11,8 @@
 ## JavaScript [js]
 ### Express
 - [Importing vars into ejs](https://www.codementor.io/naeemshaikh27/node-with-express-and-ejs-du107lnk6)
+### Discord
+- [How do you make a bot send a message to every server](https://stackoverflow.com/questions/47781264/how-do-you-make-a-bot-send-a-message-to-every-server-it-is-in-discord-js)
 
 ### particles.js
 - [particles.js](https://vincentgarreau.com/particles.js/)
