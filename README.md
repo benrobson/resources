@@ -32,7 +32,7 @@
 
 ## Minecraft
 - [Color Codes](http://minecraft.tools/en/color-code.php)
-- [Configure a subdomain to point to a specific port on my server](https://stackoverflow.com/questions/7942372/can-i-configure-a-subdomain-to-point-to-a-specific-port-on-my-server)
+- [How to Setup an SRV Record (a custom domain/IP)](https://www.youtube.com/watch?v=9xfsH7bmSFc)
 
 ## Discord
 - [Discord Bot Permissions Calculator](https://discordapi.com/permissions.html)
