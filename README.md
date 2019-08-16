@@ -42,3 +42,10 @@
 
 ## Sony Vegas
 - [Change Auto-Save Frequency](https://www.sonyvegas.co.uk/change-auto-save-frequency/)
+
+## GitHub
+```
+git fetch upstream
+git checkout master
+git merge upstream/master
+```
