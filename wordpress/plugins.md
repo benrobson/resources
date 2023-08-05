@@ -1,1 +1,2 @@
 - Website Builder by SeedProd — Theme Builder, Landing Page Builder, Coming Soon Page, Maintenance Mode - https://wordpress.org/plugins/coming-soon/
+- Duplicate Page - https://wordpress.org/plugins/duplicate-page/
