@@ -1,0 +1,1 @@
+- Importing vars into ejs - https://www.codementor.io/naeemshaikh27/node-with-express-and-ejs-du107lnk6
