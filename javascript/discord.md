@@ -1,0 +1,1 @@
+- How do you make a bot send a message to every server - https://stackoverflow.com/questions/47781264/how-do-you-make-a-bot-send-a-message-to-every-server-it-is-in-discord-js

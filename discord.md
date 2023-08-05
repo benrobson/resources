@@ -1,0 +1,2 @@
+- Discord Bot Permissions Calculator and Invite Generator - https://discordapi.com/permissions.html
+- Simple Webhook Tutorial for Discord - https://gist.github.com/jagrosh/7606268fc9f1d3e90ce9efc79294f960

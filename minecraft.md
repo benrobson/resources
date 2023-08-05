@@ -1,0 +1,3 @@
+- Color Codes - http://minecraft.tools/en/color-code.php)
+- How to Setup an SRV Record (a custom domain/IP) - https://www.youtube.com/watch?v=9xfsH7bmSFc
+- Add Java to the Windows Path - https://warwick.ac.uk/fac/sci/dcs/people/research/csrcbc/teaching/howto/javapath/
