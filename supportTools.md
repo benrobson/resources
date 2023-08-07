@@ -1,0 +1,8 @@
+- DNS Propagation Checker - https://www.whatsmydns.net/ 
+- SMTP Test Tool - https://www.gmass.co/smtp-test
+- DNS Lookup - https://dnschecker.org/all-dns-records-of-domain.php
+- SecurityTrails (Historical DNS) - https://securitytrails.com/
+- Browser Sandbox - https://www.browserling.com/browser-sandbox
+- PhishTank - https://www.phishtank.com/
+- CheckPhish - https://checkphish.ai/
+- OCR Image to Text - https://www.imagetotext.info/
